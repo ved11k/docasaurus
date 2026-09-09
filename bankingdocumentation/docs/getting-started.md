@@ -97,8 +97,6 @@ Web URL: [Visit Website](https://www.google.com)
 
 ![Banking App](/img/BankingImage.jpg)
 
-<img src="/img/BankingImage.jpg" width="200" height="150" />
-
 ---
 
 ## 2. Register Your Account
